@@ -1,3 +1,8 @@
+# Streams - Client
+This is a React JS code project that is a Twitch video streaming clone. This repo contains the code for the client.  
+
+NOTE: You will also need to run the [Streams-API](https://github.com/rleap/streams_api), for the cient to work.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
